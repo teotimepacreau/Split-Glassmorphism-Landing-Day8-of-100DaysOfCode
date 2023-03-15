@@ -1,5 +1,5 @@
 # Split glassmorphism landing page
-![Split glassmorphism demo](https://github.com/teotimepacreau/Split-Glassmorphism-Landing-Day8-of-100DaysOfCode/blob/main/Split-landing-glassmorphism-page.gif)
+![Split glassmorphism demo](https://github.com/teotimepacreau/Split-Glassmorphism-Landing-Day8-of-100DaysOfCode/blob/main/Split-landing-glassmorphism-page%20(1).gif)
 
 # Project goal
 - glassmorphism effect with CSS z-index, backdrop-filter, background-clip and box-shadow + superposition princip
